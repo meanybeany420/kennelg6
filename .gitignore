@@ -1,0 +1,19 @@
+.DS_Store
+
+# Java build output
+build/
+out/
+kennelapplication/out/
+*.class
+
+# IntelliJ local state
+.idea/workspace.xml
+.idea/shelf/
+
+
+# Runtime data and local editor settings
+database/
+.idea/
+*.db
+*.db-*
+*.bak*
